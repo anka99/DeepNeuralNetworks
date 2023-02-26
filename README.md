@@ -1,2 +1,2 @@
 # DeepNeuralNetworks
-Chosen assesments from my Master's degree Deep Neural Network coursework, University of Warsaw. 
+Chosen assignments for the Deep Neural Networks course at the University of Warsaw (MSc in Computer Science). 
